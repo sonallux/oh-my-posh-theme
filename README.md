@@ -9,4 +9,4 @@ Install Oh My Posh to your system as described here:
 - [For Linux](https://ohmyposh.dev/docs/installation/linux)
 - [For MacOS](https://ohmyposh.dev/docs/installation/macos)
 
-Then [configure the prompt](https://ohmyposh.dev/docs/installation/prompt) for your shell to use my theme located in the `sonallux.omp.json` in this repository.
+Then [configure the prompt](https://ohmyposh.dev/docs/installation/prompt) for your shell to use my theme located in the `sonallux.omp.json` file in this repository.
