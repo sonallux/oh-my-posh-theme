@@ -56,6 +56,15 @@
           }
         },
         {
+          "type": "cftarget",
+          "foreground": "#0c9ed5",
+          "template": "{{if .Org }} CF {{ .Org }}{{ if .Space }}/{{ .Space }}{{ end }}{{ end }}",
+          "style": "plain",
+          "properties": {
+            "display_mode": "files"
+          }
+        },
+        {
           "type": "exit",
           "foreground": "#ff8080",
           "style": "plain",
