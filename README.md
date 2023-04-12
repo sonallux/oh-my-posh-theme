@@ -10,3 +10,10 @@ Install Oh My Posh to your system as described here:
 - [For MacOS](https://ohmyposh.dev/docs/installation/macos)
 
 Then [configure the prompt](https://ohmyposh.dev/docs/installation/prompt) for your shell to use my theme located in the `sonallux.omp.json` file in this repository.
+
+## Linux: Update oh-my-posh
+
+```shell
+sudo wget https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/posh-linux-amd64 -O /usr/local/bin/oh-my-posh
+sudo chmod +x /usr/local/bin/oh-my-posh
+```
