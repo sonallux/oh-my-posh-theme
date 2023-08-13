@@ -65,7 +65,7 @@
           }
         },
         {
-          "type": "exit",
+          "type": "status",
           "foreground": "#ff8080",
           "style": "plain",
           "template": " {{ if gt .Code 0 }}\u274C{{ else }}\u2713{{ end }}"
